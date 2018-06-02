@@ -26,7 +26,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
     intro = true
-    headline = "R-Ladies London, Ontario"
+    headline = "R-Ladies, London, Ontario"
     description = "R-Ladies London, Ontario is part of a worldwide organization to promote Gender Diversity in the R community"
     github = "https://github.com/rladies/meetup-presentations_london_ontario"
     #gitlab = "https://gitlab.com/XXX"
