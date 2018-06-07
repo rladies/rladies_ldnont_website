@@ -1,11 +1,7 @@
 ---
-title: "Welcome to our new landing site!"
-author: "Thea"
-date: 2018-06-06T19:28:51-04:00
-categories: ["R-Ladies", "about"]
-tags: ["R Markdown", "rstats", "blogdown"]
+title: "About"
+date: "2018-06-06T20:10:13-04:00"
 ---
-
 # Welcome to the new landing site of R-Ladies London, Ontario!
 
 The R-Ladies London, Ontario chapter (aka R-Ladies #LdnOnt) has been in operation since January 2017. Check out [this post](http://theaknowles.com/post/reflection-a-year-of-r-ladies-ldnont/) to learn more about how we got started and where we are now. This site will serve as a central landing point for anyone wishing to know more about us or access our materials.
@@ -22,24 +18,22 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 - I don't identify as a lady, but I still want to learn R - can I join? Yes! While we prioritize female/non-binary leadership, our general membership is fully inclusive.
 - I'm interested in leading a workshop! How to I get in touch? Great! You don't even need to be a full fledged "expert" to lead a workshop... this is a group for skill swapping. If you're interested, send us an [email](ldnont@rladies.org).
 
-<center>
-## Come in, the room is a mess
-#### Also known as: Where do I find your info and materials?
 
-<iframe src="https://giphy.com/embed/J7L3xr5bo9tsI" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/malibu-country-J7L3xr5bo9tsI">via GIPHY</a></p>
-</center>
+# Important links
 
-While we migrate things over and make things a bit more accessible, you can find us in various corners of the internet, namely:
-
+### RSVP for upcoming events
 - [Meet Up](https://www.meetup.com/rladies-ldnont/): Where all our events are posted
+
+### Social media
 - [Twitter](https://twitter.com/rladiesldnont): Our main social media hub
 - [Facebook](https://www.facebook.com/rladiesldnont/): Our secondary social media hub
 
-Our materials are currently splayed across two locations:
+### Contact
+- [Email us!](ldnont@rladies.org)
 
-- [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) (January 2017 - November 2017)
-- [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) (December 2017 - present)
 
-Materials from the Google Drive will eventually be migrated over to the GitHub page, and that is where all future materials will be posted. A link will be provided here.
+### Previous workshop materials
+- [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) (*January 2017 - November 2017*)
+- [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) (*December 2017 - present*) [^1]
 
-More to come! Enjoy!
+[^1]: Materials from the Google Drive will eventually be migrated over to the GitHub page, and that is where all future materials will be posted. A link will be provided here.
