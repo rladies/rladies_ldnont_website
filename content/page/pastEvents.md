@@ -57,11 +57,11 @@ date: "2018-06-07T20:10:13-04:00"
 
 **Data visualization and graphics** *(2017-04-03)*
 
-- led by Sinthiya Thavam
+- Led by Sinthiya Thavam
 
 **Introduction to RMarkdown** *(2017-03-04)*
 
-- led by Cortney Hannah
+- Led by Cortney Hannah
 
 
 
