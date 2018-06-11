@@ -59,4 +59,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/page/about/"
     weight = 1
+    
+ [[menu.main]]
+    name = "Past Events"
+    url = "/page/pastEvents/"
+    weight = 4
+    
+ [[menu.main]]
+    name = "R-Ladies Global"
+    url = "https://www.rladies.org/"
+    weight = 5
 
