@@ -5,6 +5,12 @@ date: "2018-06-07T20:10:13-04:00"
 
 *...hyperlinks to materials to come... In the meantime, see our [About section](/page/about/)!*
 
+### R in Industry
+- led by Vicki Cocco
+
+### R-Shiny for performing interactive data analyses and visualizations
+- led by Rhiannon Rose
+
 ### Using RMarkdown to generate summary reports and journal articles (2018-03-06)
 - led by Thea Knowles
 
