@@ -48,12 +48,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Posts"
     url = "/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Events"
     url = "https://www.meetup.com/rladies-ldnont/"
-    weight = 2
+    weight = 3
     
 [[menu.main]]
     name = "About"
