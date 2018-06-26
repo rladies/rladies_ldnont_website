@@ -37,7 +37,7 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 - Led by Daryn Cushnie-Sparrow
 
-[**Data manipulation and multivariate analyses**] *(2017-06-19)*
+[**Data manipulation and multivariate analyses**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-06-19_DataManip-MultivarAnalysis) *(2017-06-19)*
 
 - Led by Monica Granados
 
