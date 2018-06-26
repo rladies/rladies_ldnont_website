@@ -2,6 +2,11 @@
 title: "About"
 date: "2018-06-06T20:10:13-04:00"
 ---
+
+<center>
+![img](/img/Logo_R-ladies_ldnont_forestCity_Horizontal.png)
+</center>
+
 # Welcome to the new landing site of R-Ladies London, Ontario!
 
 The R-Ladies London, Ontario chapter (aka R-Ladies #LdnOnt) has been in operation since January 2017. Check out [this post](http://theaknowles.com/post/reflection-a-year-of-r-ladies-ldnont/) to learn more about how we got started and where we are now. This site will serve as a central landing point for anyone wishing to know more about us or access our materials.

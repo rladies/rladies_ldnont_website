@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Posts"
-    url = "/"
+    url = "/page/posts/"
     weight = 2
 
 [[menu.main]]
@@ -57,7 +57,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/"
     weight = 1
     
  [[menu.main]]
