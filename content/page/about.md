@@ -33,7 +33,9 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 
 
 ### Previous workshop materials
-- [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) (*January 2017 - November 2017*)
-- [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) (*December 2017 - present*) [^1]
 
-[^1]: Materials from the Google Drive will eventually be migrated over to the GitHub page, and that is where all future materials will be posted. A link will be provided here.
+- All previous workshop materials are now available on our [GitHub](https://github.com/rladies/meetup-presentations_london_ontario)
+- Note that you must download the entire repository (the green "Clone or download" button in the top right) in order to access the files. 
+- If you are a GitHub user, you can pull new additions to keep current
+- If you are not a GitHub user, you'll still be able to access the files by downloading the whole repository.
+- We may continue to add to the [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) to ensure that non-GitHub users can access individual files... as of right now, though, the Drive is not up to date (it currently contains materials from January 2017 to November 2017).
