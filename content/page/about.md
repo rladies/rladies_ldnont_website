@@ -18,10 +18,10 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 
 # FAQs
 
-- Do I need to bean R expert? No! While some familiarity helps, all levels are welcome! If you want to follow along, come with your laptop and have R and RStudio installed. 
-- I already know R, what's in it for me? Awesome! Come join a community of women interested in STEM research, meet new pals, learn new skills or sharpen old ones, or talk to us about leading a workshop on a topic you're passionate about!
-- I don't identify as a lady, but I still want to learn R - can I join? Yes! While we prioritize female/non-binary leadership, our general membership is fully inclusive.
-- I'm interested in leading a workshop! How to I get in touch? Great! You don't even need to be a full fledged "expert" to lead a workshop... this is a group for skill swapping. If you're interested, send us an [email](ldnont@rladies.org).
+- **Do I need to be an R expert?** No! While some familiarity helps, all levels are welcome! If you want to follow along, come with your laptop and have R and RStudio installed. 
+- **I already know R, what's in it for me?** Awesome! Come join a community of individuals interested in STEM research, meet new pals, learn new skills or sharpen old ones, or talk to us about leading a workshop on a topic you're passionate about!
+- **I don't identify as a lady, but I still want to learn R - can I join?** Yes!While we prioritize underrepresented genders in leadership positions (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender), our general membership is fully inclusive. 
+- **I'm interested in leading a workshop! How to I get in touch?** Great! You don't even need to be a full fledged "expert" to lead a workshop... this is a group for skill swapping. If you're interested, send us an [email](ldnont@rladies.org).
 
 
 # Important links
