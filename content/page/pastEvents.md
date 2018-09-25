@@ -48,13 +48,15 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 **Intro to GitHub** *(2017-05-01)*
 
 - Intro to GitHub led by Pauline Barmby
-- Double session with Rachael Smyth, Intro to R
-- No materials
+- Resources:
+     - [Tutorial 1](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+     - [Tutorial 2](http://swcarpentry.github.io/git-novice/)
+     - [Tutorial 3](https://www.atlassian.com/git/tutorials)
+
 
 [**Intro to R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-05-01_Intro2R) *(2017-05-01)*
 
 - Intro to R led by Rachael Smyth
-- Double session with Pauline Barmby, Intro to GitHub
 
 [**Data visualization and graphics**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-04-03_DataViz) *(2017-04-03)*
 
