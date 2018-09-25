@@ -37,9 +37,9 @@ While we migrate things over and make things a bit more accessible, you can find
 
 Our materials are currently splayed across two locations:
 
-- [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) (January 2017 - November 2017)
-- [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) (December 2017 - present)
+- [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) ~~(January 2017 - November 2017)~~ **Update:** now all materials available!
+- [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) ~~(December 2017 - present)~~ **Update:** now all materials available!
 
-Materials from the Google Drive will eventually be migrated over to the GitHub page, and that is where all future materials will be posted. A link will be provided here.
+Materials from the Google Drive will eventually be migrated over to the GitHub page, and that is where all future materials will be posted. **Update:** All materials are at both sites!
 
 More to come! Enjoy!
