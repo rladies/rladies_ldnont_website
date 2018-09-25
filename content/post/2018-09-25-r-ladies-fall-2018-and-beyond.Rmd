@@ -1,5 +1,5 @@
 ---
-title: R-Ladies Fall 2018 and Beyond
+title: "R-Ladies #LdnOnt Fall 2018 & Beyond"
 author: Thea
 date: '2018-09-25'
 slug: r-ladies-fall-2018-and-beyond
@@ -9,6 +9,8 @@ tags:
   - rladies
   - rstats
   - RStudio
+  - ldnont
+  - lndont
 description: ''
 ---
 
