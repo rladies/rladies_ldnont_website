@@ -20,7 +20,7 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 
 - **Do I need to be an R expert?** No! While some familiarity helps, all levels are welcome! If you want to follow along, come with your laptop and have R and RStudio installed. 
 - **I already know R, what's in it for me?** Awesome! Come join a community of individuals interested in STEM research, meet new pals, learn new skills or sharpen old ones, or talk to us about leading a workshop on a topic you're passionate about!
-- **I don't identify as a lady, but I still want to learn R - can I join?** Yes!While we prioritize underrepresented genders in leadership positions (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender), our general membership is fully inclusive. 
+- **I don't identify as a lady, but I still want to learn R - can I join?** Yes! While we prioritize underrepresented genders in leadership positions (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender), our general membership is fully inclusive. 
 - **I'm interested in leading a workshop! How to I get in touch?** Great! You don't even need to be a full fledged "expert" to lead a workshop... this is a group for skill swapping. If you're interested, send us an [email](ldnont@rladies.org).
 
 
@@ -28,10 +28,11 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 
 ### RSVP for upcoming events
 - [Meet Up](https://www.meetup.com/rladies-ldnont/): Where all our events are posted
+     - *NB: do please RSVP, as it helps us estimate how many chairs to set up!*
 
 ### Social media
-- [Twitter](https://twitter.com/rladiesldnont): Our main social media hub
-- [Facebook](https://www.facebook.com/rladiesldnont/): Our secondary social media hub
+- [Twitter](https://twitter.com/rladiesldnont)
+- [Facebook](https://www.facebook.com/rladiesldnont/)
 
 ### Contact
 - [Email us!](ldnont@rladies.org)
@@ -41,8 +42,7 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 
 ### Previous workshop materials
 
-- All previous workshop materials are now available on our [GitHub](https://github.com/rladies/meetup-presentations_london_ontario)
-- Note that you must download the entire repository (the green "Clone or download" button in the top right) in order to access the files. 
+- All previous workshop materials are now available on [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) and [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing)
+- Note that if you are using the GitHub links, you must download the entire repository (the green "Clone or download" button in the top right) in order to access the files. 
 - If you are a GitHub user, you can pull new additions to keep current
-- If you are not a GitHub user, you'll still be able to access the files by downloading the whole repository.
-- We may continue to add to the [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) to ensure that non-GitHub users can access individual files... as of right now, though, the Drive is not up to date (it currently contains materials from January 2017 to November 2017).
+- If you are not a GitHub user, you'll still be able to access the files by downloading the whole repository. You can directly download the individual presentations from [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing) instead.

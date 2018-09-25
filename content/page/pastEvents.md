@@ -3,7 +3,14 @@ title: "Past Events"
 date: "2018-06-07T20:10:13-04:00"
 ---
 
-All materials are available in our [GitHub repository](https://github.com/rladies/meetup-presentations_london_ontario). Links to each workshop below.
+All materials are available in our [GitHub repository](https://github.com/rladies/meetup-presentations_london_ontario) and on [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing).
+
+Links to each workshop below.
+
+[**Making science open with R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-06-26_OpenSci) *(2018-06-26)*
+
+- Led by Monica Granados
+
 
 [**R in Industry**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-05-29_industry) *(2018-05-29)*
 
