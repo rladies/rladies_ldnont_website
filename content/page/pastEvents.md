@@ -7,6 +7,10 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**Intro to R and RStudio**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-09-25_Intro2R-RStudio) *(2018-09-25)*
+
+- Led by Cortney Hanna-Benson
+
 [**Making science open with R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-06-26_OpenSci) *(2018-06-26)*
 
 - Led by Monica Granados
