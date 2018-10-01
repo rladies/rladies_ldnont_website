@@ -1,0 +1,35 @@
+---
+title: 'Info about new Western grad student group: Computational Social Science'
+author: thea
+date: '2018-10-01'
+slug: info-about-new-western-grad-student-group-computational-social-science
+categories:
+  - Western
+  - Grad students
+tags:
+  - uwo
+  - western
+  - related groups
+  - ldnont
+  - lndont
+description: ''
+---
+
+One of our R-Ladies members is co-piloting a new venture that some of you who are Western grad students may be interested in: a group for people interested in Computational Social Science. See more below! Note this is not an R-Ladies event, but may feature content that overlaps with many of our members' interests.
+
+## Calling all Western graduate students!
+
+If you are interested in Causal Inference/ Machine Learning/ Quantitative Methods and the social sciences - a group of graduate students at Western are organizing a new club focusing on *Computational Social Science*!
+
+*Computational Social Science (CSS)* is "the study of social phenomena using digitized information and computational and statistical methods” (Wallach 2018). CSS uses big data, machine learning, and other advanced quantitative methods on social science phenomenon with specific focus on interpretability, causality, and ethics. This field is getting increased attention across the world and demand for associated skills have gone up in both inside and outside of academia.
+
+#### The CSS club has 3 objectives:
+
+- Knowledge transfer: We want to organize hands on training sessions around learning new machine learning and econometrics techniques for the social sciences.
+
+- Interdisciplinary research: We want to increase collaboration across departments.
+
+- Have fun: We want to increase intellectual conversations among graduate students and just have some fun!
+
+We invite you to join us on **Thursday October 4th, 5:30 pm @ [the Grad Club's boardroom](https://gradclub.sogs.ca/)** for our first meeting! We will discuss more about what CSS is, what this club can do to benefit you (ideas welcome!), and how to become involved.
+
