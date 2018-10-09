@@ -17,8 +17,13 @@ tags:
 description: ''
 ---
 
+```{r, echo = FALSE}
+library(emo)
+knitr::opts_chunk$set(echo = FALSE, fig.align="center")
+```
+
 <center>
-![img](/img/ggplot_workshop.jpg)
+![](/img/ggplot_workshop.jpg)
 </center>
 
 # Quick deets!
