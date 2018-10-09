@@ -1,0 +1,52 @@
+---
+title: 'Upcoming workshop: Figuring out figures in R with ggplot'
+author: ''
+date: '2018-10-09'
+slug: figuring-out-figures-in-r-with-ggplot
+categories:
+  - R-Ladies
+  - R
+  - ggplot
+  - workshops
+tags:
+  - ggplot
+  - R
+  - rstats
+  - rladies
+  - meetup
+description: ''
+---
+
+<center>
+![img](/img/ggplot_workshop.jpg)
+</center>
+
+# Quick deets!
+
+- `r emo::ji("question")` **What is R-Ladies?** A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers. 
+- `r emo::ji("clock12")` **When:** Thursday, October 25, 5:00 p.m. - 7:00 p.m.
+- `r emo::ji("round_pushpin")`**Where:** London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Creativity Lab on the 2nd floor. 
+-  `r emo::ji("moneybag")`**Cost:** All our meet ups are free, and always will be!
+-  `r emo::ji("+1")`**Sounds good, where do I sign up?** [RSVP](https://www.meetup.com/rladies-ldnont/events/255404190/) at our MeetUp page
+
+
+# Join us!
+
+This month's workshop, led by [Thea Knowles](http://theaknowles.com/), will focus on learning to make lovely graphics using the `ggplot` package. We will cover the basics as well as delve into more advanced options for customizing your figures.
+
+We will also touch on:
+
+- using [RProjects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) for a reproducible workflow
+- reading in and manipulating data
+- saving plots to certain specifications
+
+Come with [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/) installed. We will need the package `ggplot2` for this workshop, so if you don't have it already, go ahead and install it in R using the line:
+
+
+```{r, eval = FALSE}
+install.packages("ggplot2")
+```
+
+If you have trouble, feel free to reach out to us at ldnont@rladies.org.
+
+See you then! As usual, those who want to head with us to Milos' afterwards are welcome!
