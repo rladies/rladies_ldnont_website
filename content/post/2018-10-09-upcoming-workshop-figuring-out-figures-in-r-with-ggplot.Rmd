@@ -48,7 +48,7 @@ We will also touch on:
 Come with [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/) installed. We will need the package `ggplot2` for this workshop, so if you don't have it already, go ahead and install it in R using the line:
 
 
-```{r, eval = FALSE}
+```{r, eval = FALSE, echo = TRUE}
 install.packages("ggplot2")
 ```
 
