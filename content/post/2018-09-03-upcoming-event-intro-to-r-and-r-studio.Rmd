@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE, fig.align="center")
 # Quick deets!
 
 - `r emo::ji("question")` **What is R-Ladies?** A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers. 
-- `r emo::ji("clock12")` **When:** Tuesday, September 25, June 26, 5:00 p.m. - 7:00 p.m.
+- `r emo::ji("clock12")` **When:** Tuesday, September 25, 5:00 p.m. - 7:00 p.m.
 - `r emo::ji("round_pushpin")`**Where:** London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Training Room (formerly the Wellington Room) on the 2nd floor. 
 -  `r emo::ji("moneybag")`**Cost:** All our meet ups are free, and always will be!
 -  `r emo::ji("+1")`**Sounds good, where do I sign up?** [RSVP](https://www.meetup.com/rladies-ldnont/events/254367905/) at our MeetUp page
