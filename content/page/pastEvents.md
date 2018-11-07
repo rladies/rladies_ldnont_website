@@ -7,7 +7,7 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
-[**Figuring out figures in R with ggplot**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-10-27_ggplot)
+[**Figuring out figures in R with ggplot**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-10-25_ggplot) *(2018-10-25)*
 
 - Led by Thea Knowles
 - [Slides](https://rladiesldnont.netlify.com/slides/ggplot_workshop)
