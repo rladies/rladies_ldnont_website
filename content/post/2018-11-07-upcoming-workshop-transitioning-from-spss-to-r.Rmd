@@ -1,0 +1,51 @@
+---
+title: 'Upcoming workshop: Transitioning from SPSS to R'
+author: Thea
+date: '2018-11-07'
+slug: new-workshop-transitioning-from-spss-to-r
+categories:
+  - R
+  - R-Ladies
+  - RLadies
+  - upcoming
+  - workshops
+  - spss
+tags:
+  - rstats
+  - R
+  - rladies
+  - workshop
+  - spss
+description: ''
+---
+
+```{r, echo = FALSE}
+library(emo)
+knitr::opts_chunk$set(echo = FALSE, fig.align="center")
+```
+
+<center>
+![](/img/spss2r_workshop.jpg)
+</center>
+
+# Quick deets!
+
+- `r emo::ji("question")` **What is R-Ladies?** A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers. 
+- `r emo::ji("clock12")` **When:** Thursday, November 29, 6:00 p.m. - 8:00 p.m.
+- `r emo::ji("round_pushpin")`**Where:** London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Richmond Room on the first floor, across from the main library entrance. 
+-  `r emo::ji("moneybag")`**Cost:** All our meet ups are free, and always will be!
+-  `r emo::ji("+1")`**Sounds good, where do I sign up?** [RSVP](https://www.meetup.com/rladies-ldnont/events/256182225/) at our MeetUp page
+
+
+## For all you SPSS-lovers out there, this one's for you
+
+<center>
+<iframe src="https://giphy.com/embed/CVzREWRH9ZsBi" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vrt-yo-hey-hallo-CVzREWRH9ZsBi">via GIPHY</a></p>
+</center>
+
+
+Join us for the return of the popular workshop, "Transitioning from SPSS to R, " led by [Daryn Cushnie-Sparrow](https://daryncsparrow.wixsite.com/home). Daryn gave this talk for the [first time](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-07-07_SPSS2R) back in summer 2017, when she herself was a relatively new R-user, and walked us through considerations for using R as an SPSS user. She has since updated the presentation and will be leading it anew on Thursday, November 29th at 6pm. 
+
+The workshop will involve learning how to think about your data in R as an SPSS user and to use commands for running statistical tests in both programs. She will also walk us through how to manipulate your data in R and output it in a ready-for-SPSS format for those who don't like data wrangling in Excel, but would prefer to carry out analyses in SPSS or who work with supervisors or colleagues who prefer to use SPSS. Daryn is also a tidyverse fiend, and has a way of sprinkling helpful nuggets of useful tidy syntax throughout. Bottom line: there will be lots to learn, whether you're an SPSS user or not!
+
+**Disclaimer**: There is no judgment here with regards to the tool you use. Be it SPSS or R (or something else), the goal of this workshop is not to try to persuade you to change your ways, but to give you another tool in your toolkit as a researcher.
