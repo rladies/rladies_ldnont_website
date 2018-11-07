@@ -16,10 +16,10 @@ description: ''
 ---
 
 Thanks to all who came out for our October meet up! You can find the code we used for the figures, along with the data and the source code used to make the presentation at our [Github](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-10-27_ggplot) or on our [Google Drive](https://drive.google.com/open?id=1p5RYefcaqRG3tmTwRxJ0h5COjDkhm8Vb). 
-The slides presented at the workshop are below (or, if you'd like a larger version, [here](https://rladiesldnont.netlify.com/slides/2018-10-27_ggplot_workshop))
+The slides presented at the workshop are below (or, if you'd like a larger version, [here](https://rladiesldnont.netlify.com/slides/ggplot_workshop))
 
 
 ```{r, echo = FALSE}
-knitr::include_url('https://rladiesldnont.netlify.com/slides/2018-10-27_ggplot_workshop')
+knitr::include_url('https://rladiesldnont.netlify.com/slides/ggplot_workshop')
 ```
 

@@ -10,7 +10,7 @@ Links to each workshop below.
 [**Figuring out figures in R with ggplot**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-10-27_ggplot)
 
 - Led by Thea Knowles
-- [Slides](https://rladiesldnont.netlify.com/slides/2018-10-27_ggplot_workshop)
+- [Slides](https://rladiesldnont.netlify.com/slides/ggplot_workshop)
 
 
 [**Intro to R and RStudio**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-09-25_Intro2R-RStudio) *(2018-09-25)*
