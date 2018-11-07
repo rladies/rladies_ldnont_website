@@ -7,6 +7,12 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**Figuring out figures in R with ggplot**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-10-27_ggplot)
+
+- Led by Thea Knowles
+- [Slides](https://rladiesldnont.netlify.com/slides/2018-10-27_ggplot_workshop)
+
+
 [**Intro to R and RStudio**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-09-25_Intro2R-RStudio) *(2018-09-25)*
 
 - Led by Cortney Hanna-Benson
@@ -76,7 +82,6 @@ Links to each workshop below.
 [**Introduction to RMarkdown**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-03-04_Intro2RMarkdown) *(2017-03-04)*
 
 - Led by Cortney Hannah
-
 
 
 
