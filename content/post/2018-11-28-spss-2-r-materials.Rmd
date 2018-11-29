@@ -1,0 +1,29 @@
+---
+title: 'SPSS 2 R: Materials'
+author: ''
+date: '2018-11-28'
+slug: spss-2-r-materials
+categories:
+  - R-Ladies
+  - spss
+  - workshops
+tags:
+  - ldnont
+  - lndont
+  - meetup
+  - R
+  - R Markdown
+  - rladies
+  - rstats
+  - spss
+  - workshop
+description: ''
+---
+
+```{r}
+#xfun::embed_file('https://github.com/daryncsparrow/SPSStoR_2018/blob/master/SPSStoR_2018.Rmd')
+
+knitr::include_url('https://github.com/daryncsparrow/SPSStoR_2018/blob/master/SPSStoR_2018.html')
+```
+
+test
