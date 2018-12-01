@@ -8,6 +8,7 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 Links to each workshop below.
 
 [**Transitioning from SPSS to R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-11-29_SPSS2R) *(2018-11-29)*
+
 - Led by Daryn Cushnie-Sparrow
 - [Presentation for 2017, 2018 versions of this workshop](https://rladiesldnont.netlify.com/2018/11/28/2018-11-28-spss-2-r-materials/)
 
