@@ -20,10 +20,31 @@ tags:
 description: ''
 ---
 
-```{r}
-#xfun::embed_file('https://github.com/daryncsparrow/SPSStoR_2018/blob/master/SPSStoR_2018.Rmd')
+# See you next year, R-Ladies!
 
-knitr::include_url('https://github.com/daryncsparrow/SPSStoR_2018/blob/master/SPSStoR_2018.html')
+And thus concludes our final R-Ladies #LdnOnt event of 2018! Thanks to Daryn for leading our last workshop of the season, Transitioning from SPSS to R, version 2.0. We were a smaller crowd this time (that's the end of the academic term, for you), but I think these are a great set of resources to have. 
+
+# SPSS 2 R: Two for the price of one!
+Daryn has now led this workshop twice, but each time has focused on a different aspect of being an SPSS user who also uses/is learning to use R. Find each below (along with a link to the raw materials, including the .Rmd files with exercises).
+
+
+#### 2018: Data wrangling and preparing to feed to SPSS
+For the the November 2018 session, she walked us through using one of the classic built in datasets (`diamonds`) to learn how to clean, wrangle, and output data in an SPSS ready format. This is particularly useful for people who would like to continue using SPSS to run statistical tests or to share results with SPSS-using colleagues, but who may hope and pray for an easier way to get the data in a format that SPSS can use. Examples of specific tests are at the end of this presentation, but the primary focus is on using R as a gateway tool to use *alongside* SPSS.
+
+[Download the materials here](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2018-11-29_SPSS2R) or scroll through her presentation below:
+
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_url('https://rladiesldnont.netlify.com/slides/SPSStoR_2018')
 ```
 
-test
+
+### 2017: Running specific statistical tests
+In 2017, she walked us through a real (modified) dataset, didn't skimp on data cleaning and wrangling, but spent the majority of the time demonstrating how to perform specific statistical tests in R if you are coming from an SPSS background.
+
+[Download the materials here](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-07-07_SPSS2R) or scroll through her presentation below:
+
+
+```{r echo=FALSE, out.width = "100%"}
+knitr::include_url('https://rladiesldnont.netlify.com/slides/SPSStoR_2017')
+```
+
