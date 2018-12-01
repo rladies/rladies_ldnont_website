@@ -39,7 +39,7 @@ knitr::include_url('https://rladiesldnont.netlify.com/slides/SPSStoR_2018')
 ```
 
 
-### 2017: Running specific statistical tests
+#### 2017: Running specific statistical tests
 In 2017, she walked us through a real (modified) dataset, didn't skimp on data cleaning and wrangling, but spent the majority of the time demonstrating how to perform specific statistical tests in R if you are coming from an SPSS background.
 
 [Download the materials here](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-07-07_SPSS2R) or scroll through her presentation below:
