@@ -1,0 +1,64 @@
+---
+title: 'Upcoming workshop: Heatmaps and Pointmaps using ggmap'
+author: ''
+date: '2019-02-22'
+slug: heatmaps-and-pointmaps-using-ggmap
+categories:
+  - R
+  - R-Ladies
+  - RLadies
+  - upcoming
+  - workshops
+  - ggmap
+  - google maps
+tags:
+  - rstats
+  - R
+  - rladies
+  - workshop
+  - ggmap
+  - google maps
+description: ''
+---
+
+```{r, echo = FALSE}
+library(emo)
+knitr::opts_chunk$set(echo = FALSE, fig.align="center")
+```
+
+<center>
+![](/img/ggmap_workshop.jpg)
+
+## ***R enthusiasts, bike enthusiasts, map enthusiasts alike, come play!***
+
+</center>
+
+
+
+# Quick deets!
+
+- `r emo::ji("question")` **What is R-Ladies?** A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers. 
+- `r emo::ji("clock12")` **When:** Thursday, March 28, 5:30 - 7:30 p.m.
+- `r emo::ji("round_pushpin")`**Where:** London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Lawson Room on the first floor, across from the main library entrance (formerly known as the Richmond Room).
+-  `r emo::ji("moneybag")`**Cost:** All our meet ups are free, and always will be!
+-  `r emo::ji("+1")`**Sounds good, where do I sign up?** [**RSVP**](https://www.meetup.com/rladies-ldnont/events/259175996/) at our MeetUp page
+
+
+## Know your city, plot your city!
+
+This workshop, led by Rebecca Henderson, will focus on learning to produce heatmaps and pointmaps using the Google maps platform. Heatmaps can be used to represent population density, per-capita income, social views, and many other geographically important measurements. 
+
+Rebecca, a PhD candidate in Health Sciences, researches cycling-motorist collisions and attitudes and barriers to cycling uptake in the City of London. We are thrilled to have her present, and are pretty excited that we'll be getting our hands on data actually relevant to our own fair city of London.
+
+### `r emo::ji("warning")` Some prep work required
+There is some prep work to do beforehand if you'd like to actively follow along at the workshop:
+
+- This workshop requires an **API console key**. Using Google Maps to a certain degree is free, but you must enable billing.
+     - [Medium wrote a good article explaining the process that you can use to get set up.](https://medium.com/superkoders/ultimate-guide-to-google-maps-d86ad945636a)
+- You'll also need to install the following packages if you don't have them already. You can do this by running the line
+     - `install.packages(c("gdata", "tidyverse", "ggmap", "viridis"))`
+
+If you have trouble, feel free to reach out to us at ldnont@rladies.org. If you don't feel comfortable setting up the API console key (since you do need a credit card), that's okay too. As always, you are more than welcome to come and follow along at your leisure or to tag-team with another member. However, if you'd like to actively follow along with Rebecca, you will need the API key.
+
+See you then! As usual, those who want to head with us to Milos' afterwards are welcome! `r emo::ji("beers")`
+
