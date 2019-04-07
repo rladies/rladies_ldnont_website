@@ -37,9 +37,6 @@ Our group hosts monthly-ish meet ups that feature workshops and tutorials on var
 ### Contact
 - [Email us!](ldnont@rladies.org)
 
-### DataCamp
-- Practice on your own using the courses provided at [DataCamp](https://www.datacamp.com/) (free to our members)
-
 ### Previous workshop materials
 
 - All previous workshop materials are now available on [GitHub](https://github.com/rladies/meetup-presentations_london_ontario) and [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing)
