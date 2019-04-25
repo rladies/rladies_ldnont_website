@@ -1,0 +1,25 @@
+---
+title: 'Upcoming workshop: R Markdown and bookdown for dissertating'
+author: ''
+date: '2019-04-25'
+slug: upcoming-workshop-r-markdown-and-bookdown-for-dissertating
+categories: []
+tags:
+  - workshop
+  - rmarkdown
+  - bookdown
+  - amwriting
+  - phdchat
+  - dissertation
+  - ldnont
+  - R Markdown
+  - rstats
+description: ''
+---
+
+Materials for our tutorial on dissertating in R Markdown with bookdown!
+
+- [Tutorial](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/)
+- [Materials](https://drive.google.com/drive/folders/1oNEl6DePF3VSfFQdgQFLxW-_eqs9D24X)
+
+
