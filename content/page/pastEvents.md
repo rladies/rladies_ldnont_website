@@ -6,6 +6,12 @@ date: "2018-06-07T20:10:13-04:00"
 All materials are available in our [GitHub repository](https://github.com/rladies/meetup-presentations_london_ontario) and on [Google Drive](https://drive.google.com/drive/folders/0BzCQiZLG7vQmVm9ISndsRzllbTA?usp=sharing).
 
 Links to each workshop below.
+
+[Dissertating with R Markdown and bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/) *(2019-04-25)*
+
+- Led by Thea Knowles
+- Additional materials on [GitHub](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-04-25_dissertating) or [Drive](https://drive.google.com/drive/folders/1oNEl6DePF3VSfFQdgQFLxW-_eqs9D24X)
+
 [Heatmaps and Pointmaps using ggmap](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-03-28_ggmap) *(2019-03-28)*
 
 - Led by Rebecca Henderson

@@ -1,0 +1,44 @@
+---
+title: 'Upcoming workshop: Data cleaning and exploration in R'
+author: ''
+date: '2019-05-08'
+slug: data-cleaning-exploration
+categories: []
+tags:
+  - workshop
+  - data
+  - dataviz
+  - datavis
+  - tidy
+  - ldnont
+  - rstats
+description: ''
+---
+
+![](/img/data_cleaning_exploration.png)
+
+Join us for our ***last*** R-Ladies #LdnOnt meet up of the season!
+
+# Quick deets!
+
+- `r emo::ji("question")` **What is R-Ladies?** A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers. 
+- `r emo::ji("clock12")` **When:** Thursday, May 30, 5:30 - 7:30 p.m.
+- `r emo::ji("round_pushpin")`**Where:** London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Lawson Room on the first floor, across from the main library entrance (formerly known as the Richmond Room).
+-  `r emo::ji("moneybag")`**Cost:** All our meet ups are free, and always will be!
+-  `r emo::ji("+1")`**Sounds good, where do I sign up?** [**RSVP**](https://www.meetup.com/rladies-ldnont/events/261288054/) at our MeetUp page
+
+This meetup will be all about sitting down with new data! [Jaky Kueper](https://twitter.com/jk_kueper#) will walk us through common practices and procedures for data cleaning and exploration — essentially how to get data into a ‘usable’ form and start looking at what they contain. We will touch on working with multiple datasets (joins) and strategies for when you need to learn more about your data or where they come from. Previous experience with R is not required.
+
+There will be time for the group to skill-share and practice/troubleshoot; ***if you have new data that you are or will be working with this summer, bring it!***
+
+<center>
+<iframe src="https://giphy.com/embed/4FQMuOKR6zQRO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO">via GIPHY</a></p>
+</center>
+
+Join us for snacks and drinks at Milos' down the street after the meet up. As always, all are welcome.
+
+Please note that there will be ***no summer R-Ladies sessions***. Stay tuned for more details to come about future sessions!
+
+
+
+
