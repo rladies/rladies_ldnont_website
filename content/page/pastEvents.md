@@ -7,12 +7,16 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
-[Dissertating with R Markdown and bookdown](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/) *(2019-04-25)*
+[**Data cleaning and exploration in R**](https://drive.google.com/drive/folders/1RVvRDbtcUaQIyQDeyDgJzc4nLX8ZWsK3) *(2019-05-30)*
+
+- Led by Jaky Kueper
+
+[**Dissertating with R Markdown and bookdown**](https://bookdown.org/thea_knowles/dissertating_rmd_presentation/) *(2019-04-25)*
 
 - Led by Thea Knowles
 - Additional materials on [GitHub](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-04-25_dissertating) or [Drive](https://drive.google.com/drive/folders/1oNEl6DePF3VSfFQdgQFLxW-_eqs9D24X)
 
-[Heatmaps and Pointmaps using ggmap](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-03-28_ggmap) *(2019-03-28)*
+[**Heatmaps and Pointmaps using ggmap**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-03-28_ggmap) *(2019-03-28)*
 
 - Led by Rebecca Henderson
 
