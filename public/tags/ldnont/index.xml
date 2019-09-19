@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ldnont on R-Ladies #LdnOnt</title>
+    <link>/tags/ldnont/</link>
+    <description>Recent content in ldnont on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ldnont/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>So long, farewell, and stay tuned!</title>
+      <link>/2019/05/31/2019-05-31-so-long-farewell-and-stay-tuned/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/31/2019-05-31-so-long-farewell-and-stay-tuned/</guid>
+      <description>via GIPHYThus concludes this season of R-Ladies #LdnOnt! Thank you to Jaky for leading us through our last workshop together, and to all of you who came out to these things over the last two and a half years. Workshop materials are posted in the usual places (website, GitHub, Drive).
+Some news that I’ve spoken about a bit in person but not in any official capacity yet: Sally and I are stepping down as organizers.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Data cleaning and exploration in R</title>
+      <link>/2019/05/08/2019-05-20-data-cleaning-exploration/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/08/2019-05-20-data-cleaning-exploration/</guid>
+      <description>Join us for our last R-Ladies #LdnOnt meet up of the season!
+Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, May 30, 5:30 - 7:30 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Lawson Room on the first floor, across from the main library entrance (formerly known as the Richmond Room).</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: R Markdown and bookdown for dissertating</title>
+      <link>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</guid>
+      <description>Materials for our tutorial on dissertating in R Markdown with bookdown!
+TutorialMaterials</description>
+    </item>
+    
+    <item>
+      <title>SPSS 2 R: Materials</title>
+      <link>/2018/11/28/2018-11-28-spss-2-r-materials/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/28/2018-11-28-spss-2-r-materials/</guid>
+      <description>See you next year, R-Ladies!And thus concludes our final R-Ladies #LdnOnt event of 2018! Thanks to Daryn for leading our last workshop of the season, Transitioning from SPSS to R, version 2.0. We were a smaller crowd this time (that’s the end of the academic term, for you), but I think these are a great set of resources to have.
+SPSS 2 R: Two for the price of one!</description>
+    </item>
+    
+    <item>
+      <title>Info about new Western grad student group: Computational Social Science</title>
+      <link>/2018/10/01/2018-10-01-info-about-new-western-grad-student-group-computational-social-science/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/01/2018-10-01-info-about-new-western-grad-student-group-computational-social-science/</guid>
+      <description>One of our R-Ladies members is co-piloting a new venture that some of you who are Western grad students may be interested in: a group for people interested in Computational Social Science. See more below! Note this is not an R-Ladies event, but may feature content that overlaps with many of our members’ interests.
+Calling all Western graduate students!If you are interested in Causal Inference/ Machine Learning/ Quantitative Methods and the social sciences - a group of graduate students at Western are organizing a new club focusing on Computational Social Science!</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies #LdnOnt Fall 2018 &amp; Beyond</title>
+      <link>/2018/09/25/2018-09-25-r-ladies-fall-2018-and-beyond/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/25/2018-09-25-r-ladies-fall-2018-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

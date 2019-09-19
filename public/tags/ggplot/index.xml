@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ggplot on R-Ladies #LdnOnt</title>
+    <link>/tags/ggplot/</link>
+    <description>Recent content in ggplot on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ggplot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Figuring out figures in R using ggplot: Workshop materials</title>
+      <link>/2018/11/06/2018-11-06-figuring-out-figures-in-r-using-ggplot-workshop-materials/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/06/2018-11-06-figuring-out-figures-in-r-using-ggplot-workshop-materials/</guid>
+      <description>Thanks to all who came out for our October meet up! You can find the code we used for the figures, along with the data and the source code used to make the presentation at our Github or on our Google Drive. The slides presented at the workshop are below (or, if you’d like a larger version, here)
+</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Figuring out figures in R with ggplot</title>
+      <link>/2018/10/09/2018-10-09-upcoming-workshop-figuring-out-figures-in-r-with-ggplot/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/09/2018-10-09-upcoming-workshop-figuring-out-figures-in-r-with-ggplot/</guid>
+      <description>Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, October 25, 5:00 p.m. - 7:00 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Creativity Lab on the 2nd floor.</description>
+    </item>
+    
+  </channel>
+</rss>

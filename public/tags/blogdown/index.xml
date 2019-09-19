@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogdown on R-Ladies #LdnOnt</title>
+    <link>/tags/blogdown/</link>
+    <description>Recent content in blogdown on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Wed, 06 Jun 2018 20:10:13 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workshop: Making Science Open With R!</title>
+      <link>/2018/06/06/2018-06-06-making-science-open-with-r/</link>
+      <pubDate>Wed, 06 Jun 2018 20:10:13 -0400</pubDate>
+      
+      <guid>/2018/06/06/2018-06-06-making-science-open-with-r/</guid>
+      <description>🎉 Next meet up: Making Science Open with R! Led by @monsauce. 🎉
+Learn about how #rstats, #rmarkdown, and Google Sheets can work together for you to create a reproducible workflow.
+Join us on June 26 at 5pm at the @LondonPublicLib! All are welcome. https://t.co/fZN2Atoxv6 pic.twitter.com/C6HjqCYbG2— R-Ladies LdnOnt (@RLadiesLdnOnt) June 6, 2018DetailsJoin us for our last meet up until the fall! We are thrilled to have Monica Granados back with us again to close out our second year!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our new landing site!</title>
+      <link>/2018/06/06/2018-06-06-welcome/</link>
+      <pubDate>Wed, 06 Jun 2018 19:28:51 -0400</pubDate>
+      
+      <guid>/2018/06/06/2018-06-06-welcome/</guid>
+      <description>Welcome to the new landing site of R-Ladies London, Ontario!The R-Ladies London, Ontario chapter (aka R-Ladies #LdnOnt) has been in operation since January 2017. Check out this post to learn more about how we got started and where we are now. This site will serve as a central landing point for anyone wishing to know more about us or access our materials.
+What is this R-Ladies you speak of?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>related groups on R-Ladies #LdnOnt</title>
+    <link>/tags/related-groups/</link>
+    <description>Recent content in related groups on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/related-groups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Info about new Western grad student group: Computational Social Science</title>
+      <link>/2018/10/01/2018-10-01-info-about-new-western-grad-student-group-computational-social-science/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/01/2018-10-01-info-about-new-western-grad-student-group-computational-social-science/</guid>
+      <description>One of our R-Ladies members is co-piloting a new venture that some of you who are Western grad students may be interested in: a group for people interested in Computational Social Science. See more below! Note this is not an R-Ladies event, but may feature content that overlaps with many of our members’ interests.
+Calling all Western graduate students!If you are interested in Causal Inference/ Machine Learning/ Quantitative Methods and the social sciences - a group of graduate students at Western are organizing a new club focusing on Computational Social Science!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>workshop on R-Ladies #LdnOnt</title>
+    <link>/tags/workshop/</link>
+    <description>Recent content in workshop on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fall 2019 - We&#39;re Back!</title>
+      <link>/2019/09/18/2019-09-18-fall-2019-we-re-back/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/18/2019-09-18-fall-2019-we-re-back/</guid>
+      <description>.col3 {columns: 2 100px;-webkit-columns: 2 100px;-moz-columns: 2 100px;}via GIPHYWe’re back!Welcome back to another year of #RLadies #LdnOnt! This year we are starting out with three NEW organizers of R-Ladies London: Olivia, Caitlin and Daryn.
+A little bit about us:All three of us are 4th year combined speech-language pathology MClSc/PhD candidates (yes, we met through that!).
+via GIPHYI’m Olivia, my work focuses on partnering with speech-language pathologists in developing new measures of spoken language development for young children with hearing loss.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Data cleaning and exploration in R</title>
+      <link>/2019/05/08/2019-05-20-data-cleaning-exploration/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/08/2019-05-20-data-cleaning-exploration/</guid>
+      <description>Join us for our last R-Ladies #LdnOnt meet up of the season!
+Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, May 30, 5:30 - 7:30 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Lawson Room on the first floor, across from the main library entrance (formerly known as the Richmond Room).</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: R Markdown and bookdown for dissertating</title>
+      <link>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</guid>
+      <description>Materials for our tutorial on dissertating in R Markdown with bookdown!
+TutorialMaterials</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Heatmaps and Pointmaps using ggmap</title>
+      <link>/2019/02/22/2019-02-22-heatmaps-and-pointmaps-using-ggmap/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/22/2019-02-22-heatmaps-and-pointmaps-using-ggmap/</guid>
+      <description>R enthusiasts, bike enthusiasts, map enthusiasts alike, come play!Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, March 28, 5:30 - 7:30 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Lawson Room on the first floor, across from the main library entrance (formerly known as the Richmond Room).</description>
+    </item>
+    
+    <item>
+      <title>SPSS 2 R: Materials</title>
+      <link>/2018/11/28/2018-11-28-spss-2-r-materials/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/28/2018-11-28-spss-2-r-materials/</guid>
+      <description>See you next year, R-Ladies!And thus concludes our final R-Ladies #LdnOnt event of 2018! Thanks to Daryn for leading our last workshop of the season, Transitioning from SPSS to R, version 2.0. We were a smaller crowd this time (that’s the end of the academic term, for you), but I think these are a great set of resources to have.
+SPSS 2 R: Two for the price of one!</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Transitioning from SPSS to R</title>
+      <link>/2018/11/07/2018-11-07-upcoming-workshop-transitioning-from-spss-to-r/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/07/2018-11-07-upcoming-workshop-transitioning-from-spss-to-r/</guid>
+      <description>Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, November 29, 6:00 p.m. - 8:00 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Richmond Room on the first floor, across from the main library entrance.</description>
+    </item>
+    
+    <item>
+      <title>Figuring out figures in R using ggplot: Workshop materials</title>
+      <link>/2018/11/06/2018-11-06-figuring-out-figures-in-r-using-ggplot-workshop-materials/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/06/2018-11-06-figuring-out-figures-in-r-using-ggplot-workshop-materials/</guid>
+      <description>Thanks to all who came out for our October meet up! You can find the code we used for the figures, along with the data and the source code used to make the presentation at our Github or on our Google Drive. The slides presented at the workshop are below (or, if you’d like a larger version, here)
+</description>
+    </item>
+    
+  </channel>
+</rss>

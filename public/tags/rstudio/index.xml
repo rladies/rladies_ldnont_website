@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RStudio on R-Ladies #LdnOnt</title>
+    <link>/tags/rstudio/</link>
+    <description>Recent content in RStudio on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R-Ladies #LdnOnt Fall 2018 &amp; Beyond</title>
+      <link>/2018/09/25/2018-09-25-r-ladies-fall-2018-and-beyond/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/25/2018-09-25-r-ladies-fall-2018-and-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upcoming event: Intro to R and R-Studio</title>
+      <link>/2018/09/03/2018-09-03-upcoming-event-intro-to-r-and-r-studio/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/03/2018-09-03-upcoming-event-intro-to-r-and-r-studio/</guid>
+      <description>Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Tuesday, September 25, 5:00 p.m. - 7:00 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Training Room (formerly the Wellington Room) on the 2nd floor.</description>
+    </item>
+    
+  </channel>
+</rss>

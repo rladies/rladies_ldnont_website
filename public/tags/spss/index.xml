@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spss on R-Ladies #LdnOnt</title>
+    <link>/tags/spss/</link>
+    <description>Recent content in spss on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPSS 2 R: Materials</title>
+      <link>/2018/11/28/2018-11-28-spss-2-r-materials/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/28/2018-11-28-spss-2-r-materials/</guid>
+      <description>See you next year, R-Ladies!And thus concludes our final R-Ladies #LdnOnt event of 2018! Thanks to Daryn for leading our last workshop of the season, Transitioning from SPSS to R, version 2.0. We were a smaller crowd this time (that’s the end of the academic term, for you), but I think these are a great set of resources to have.
+SPSS 2 R: Two for the price of one!</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Transitioning from SPSS to R</title>
+      <link>/2018/11/07/2018-11-07-upcoming-workshop-transitioning-from-spss-to-r/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/07/2018-11-07-upcoming-workshop-transitioning-from-spss-to-r/</guid>
+      <description>Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, November 29, 6:00 p.m. - 8:00 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Richmond Room on the first floor, across from the main library entrance.</description>
+    </item>
+    
+  </channel>
+</rss>

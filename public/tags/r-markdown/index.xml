@@ -7,20 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Upcoming workshop: R Markdown and bookdown for dissertating</title>
+      <link>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2015/07/23/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</guid>
+      <description>Materials for our tutorial on dissertating in R Markdown with bookdown!
+TutorialMaterials</description>
+    </item>
+    
+    <item>
+      <title>SPSS 2 R: Materials</title>
+      <link>/2018/11/28/2018-11-28-spss-2-r-materials/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/28/2018-11-28-spss-2-r-materials/</guid>
+      <description>See you next year, R-Ladies!And thus concludes our final R-Ladies #LdnOnt event of 2018! Thanks to Daryn for leading our last workshop of the season, Transitioning from SPSS to R, version 2.0. We were a smaller crowd this time (that’s the end of the academic term, for you), but I think these are a great set of resources to have.
+SPSS 2 R: Two for the price of one!</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Making Science Open With R!</title>
+      <link>/2018/06/06/2018-06-06-making-science-open-with-r/</link>
+      <pubDate>Wed, 06 Jun 2018 20:10:13 -0400</pubDate>
+      
+      <guid>/2018/06/06/2018-06-06-making-science-open-with-r/</guid>
+      <description>🎉 Next meet up: Making Science Open with R! Led by @monsauce. 🎉
+Learn about how #rstats, #rmarkdown, and Google Sheets can work together for you to create a reproducible workflow.
+Join us on June 26 at 5pm at the @LondonPublicLib! All are welcome. https://t.co/fZN2Atoxv6 pic.twitter.com/C6HjqCYbG2— R-Ladies LdnOnt (@RLadiesLdnOnt) June 6, 2018DetailsJoin us for our last meet up until the fall! We are thrilled to have Monica Granados back with us again to close out our second year!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to our new landing site!</title>
+      <link>/2018/06/06/2018-06-06-welcome/</link>
+      <pubDate>Wed, 06 Jun 2018 19:28:51 -0400</pubDate>
+      
+      <guid>/2018/06/06/2018-06-06-welcome/</guid>
+      <description>Welcome to the new landing site of R-Ladies London, Ontario!The R-Ladies London, Ontario chapter (aka R-Ladies #LdnOnt) has been in operation since January 2017. Check out this post to learn more about how we got started and where we are now. This site will serve as a central landing point for anyone wishing to know more about us or access our materials.
+What is this R-Ladies you speak of?</description>
     </item>
     
   </channel>

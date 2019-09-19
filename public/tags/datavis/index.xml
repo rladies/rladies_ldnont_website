@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datavis on R-Ladies #LdnOnt</title>
+    <link>/tags/datavis/</link>
+    <description>Recent content in datavis on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/datavis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upcoming workshop: Data cleaning and exploration in R</title>
+      <link>/2019/05/08/2019-05-20-data-cleaning-exploration/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/08/2019-05-20-data-cleaning-exploration/</guid>
+      <description>Join us for our last R-Ladies #LdnOnt meet up of the season!
+Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, May 30, 5:30 - 7:30 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Lawson Room on the first floor, across from the main library entrance (formerly known as the Richmond Room).</description>
+    </item>
+    
+  </channel>
+</rss>

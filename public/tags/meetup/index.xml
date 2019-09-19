@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>meetup on R-Ladies #LdnOnt</title>
+    <link>/tags/meetup/</link>
+    <description>Recent content in meetup on R-Ladies #LdnOnt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>My Name</copyright>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>So long, farewell, and stay tuned!</title>
+      <link>/2019/05/31/2019-05-31-so-long-farewell-and-stay-tuned/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/31/2019-05-31-so-long-farewell-and-stay-tuned/</guid>
+      <description>via GIPHYThus concludes this season of R-Ladies #LdnOnt! Thank you to Jaky for leading us through our last workshop together, and to all of you who came out to these things over the last two and a half years. Workshop materials are posted in the usual places (website, GitHub, Drive).
+Some news that I’ve spoken about a bit in person but not in any official capacity yet: Sally and I are stepping down as organizers.</description>
+    </item>
+    
+    <item>
+      <title>SPSS 2 R: Materials</title>
+      <link>/2018/11/28/2018-11-28-spss-2-r-materials/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/28/2018-11-28-spss-2-r-materials/</guid>
+      <description>See you next year, R-Ladies!And thus concludes our final R-Ladies #LdnOnt event of 2018! Thanks to Daryn for leading our last workshop of the season, Transitioning from SPSS to R, version 2.0. We were a smaller crowd this time (that’s the end of the academic term, for you), but I think these are a great set of resources to have.
+SPSS 2 R: Two for the price of one!</description>
+    </item>
+    
+    <item>
+      <title>Upcoming workshop: Figuring out figures in R with ggplot</title>
+      <link>/2018/10/09/2018-10-09-upcoming-workshop-figuring-out-figures-in-r-with-ggplot/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/10/09/2018-10-09-upcoming-workshop-figuring-out-figures-in-r-with-ggplot/</guid>
+      <description>Quick deets!❓ What is R-Ladies? A low-key get together for people interested in using and learning more about R, a powerful statistical software program. We meet about once a month to feature different topics and speakers.🕛 When: Thursday, October 25, 5:00 p.m. - 7:00 p.m.📍Where: London Public Library, Central Branch (251 Dundas, right downtown). We will be in the Creativity Lab on the 2nd floor.</description>
+    </item>
+    
+  </channel>
+</rss>
