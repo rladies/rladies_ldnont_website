@@ -49,9 +49,7 @@ All three of us are 4th year combined speech-language pathology MClSc/PhD candid
 <center>
 <iframe src="https://giphy.com/embed/xT9DPFPfULYJHHrqN2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbc-funny-comedy-mr-d-xT9DPFPfULYJHHrqN2">via GIPHY</a></p>
 </center>
-
 ***
-
 
 <div class="col3">   
 ![](/img/Olivia.jpeg)
@@ -59,7 +57,6 @@ All three of us are 4th year combined speech-language pathology MClSc/PhD candid
 I’m [**Olivia**](https://twitter.com/OliviaDaub), my work focuses on partnering with speech-language pathologists in developing new measures of spoken language development for young children with hearing loss. I use R for a variety of psychometric analyses, including Rasch and Latent Trait’s Modelling, and an in the process of learning [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) for future manuscripts. I also have a pet bunny named Milo `r emo::ji("rabbit")` who has made significant contributions to my research, including eating any spare journal articles left lying around.
  </div>  
 ***  
- 
 
 <div class="col3">  
 ![](/img/Caitlin.jpeg)
