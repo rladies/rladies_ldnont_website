@@ -2,7 +2,7 @@
 title: "Fall 2019 - We're Back!"
 author: ''
 date: '2019-09-18'
-description: ''
+description: 'Come and hear about us and what we have planned for this term!'
 slug: fall-2019-we-re-back
 tags:
 - rstats
@@ -19,7 +19,7 @@ categories:
 
 
 ```{r, echo = FALSE}
-#library(emo)
+library(emo)
 knitr::opts_chunk$set(echo = FALSE, fig.align="center")
 ```
 
