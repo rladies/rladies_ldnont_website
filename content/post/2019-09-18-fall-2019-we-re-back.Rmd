@@ -51,19 +51,20 @@ All three of us are 4th year combined speech-language pathology MClSc/PhD candid
 </center>
 
 ***
+
+
 <div class="col3">   
 ![](/img/Olivia.jpeg)
 
- I’m [**Olivia**](https://twitter.com/OliviaDaub), my work focuses on partnering with speech-language pathologists in developing new measures of spoken language development for young children with hearing loss. I use R for a variety of psychometric analyses, including Rasch and Latent Trait’s Modelling, and an in the process of learning [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) for future manuscripts. I also have a pet bunny named Milo `r emo::ji("rabbit")` who has made significant contributions to my research, including eating any spare journal articles left lying around. 
+I’m [**Olivia**](https://twitter.com/OliviaDaub), my work focuses on partnering with speech-language pathologists in developing new measures of spoken language development for young children with hearing loss. I use R for a variety of psychometric analyses, including Rasch and Latent Trait’s Modelling, and an in the process of learning [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) for future manuscripts. I also have a pet bunny named Milo `r emo::ji("rabbit")` who has made significant contributions to my research, including eating any spare journal articles left lying around.
  </div>  
- ***  
- 
+***  
  
 
 <div class="col3">  
 ![](/img/Caitlin.jpeg)
 
-Hi everyone! [**Caitlin**](https://twitter.com/CaitlinCoughler) here! I’ve been using R for about 2.5 years now, which started at #Rladies #LdnOnt! I took the deep dive last summer when I started using R in my candidacy exam project data analysis and haven’t looked back. I’m a big fan of the data manipulation packages tidyr and [dplyr](https://rpubs.com/bradleyboehmke/data_wrangling) and love the graphing possibilities in [ggplot](https://ggplot2.tidyverse.org/). Fun fact: I’ve lived in 3 different continents. `r emo::ji("globe")` Looking forward to another year expanding R knowledge!  
+Hi everyone! [**Caitlin**](https://twitter.com/CaitlinCoughler) here! I’ve been using R for about 2.5 years now, which started at #Rladies #LdnOnt! I took the deep dive last summer when I started using R in my candidacy exam project data analysis and haven’t looked back. I’m a big fan of the data manipulation packages tidyr and [dplyr](https://rpubs.com/bradleyboehmke/data_wrangling) and love the graphing possibilities in [ggplot](https://ggplot2.tidyverse.org/). Fun fact: I’ve lived in 3 different continents. `r emo::ji("globe")` Looking forward to another year expanding R knowledge! 
 </div>  
 ***  
 
