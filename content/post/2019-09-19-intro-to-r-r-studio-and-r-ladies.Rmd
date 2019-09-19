@@ -22,7 +22,7 @@ description: ''
 
 Our first meetup is in less than 2 weeks! This meetup will be on Tuesday, October 1st at 6 pm at Elborn College, Western University (1201 Western Road) in Room 2510. Elborn is a bit of a maze - see map and directions below. Parking at Elborn is `r emo::ji("moneybag")` free `r emo::ji("moneybag")` after 4 pm. 
 
-We're very excited to have Dr. Cortney Hanna-Benson back to take us through some helpful introductory info! These workshops are always helpful for novice and experience users alike, as you sometimes come across tips you *wish* you had heard ages ago. 
+We're very excited to have Dr. Cortney Hanna-Benson back to take us through some helpful introductory info! These workshops are always helpful for novice and experienced users alike, as you sometimes come across tips you *wish* you had heard ages ago. 
 
 It's also a great time to come and meet fellow R-Ladies members, offer ideas of talks you want to hear or meetups you'd like to have, or offer to present yourself! Don't think you need to be a pro to present - we welcome presenters at various levels of experience and we can help you think out how to present a topic you're interested in. 
 
@@ -35,6 +35,8 @@ In this step-by-step workshop, we will go over the basics of R and R Studio. Thi
 - [Download R Studio](https://www.rstudio.com/products/rstudio/)
 
 [Tweet](https://twitter.com/RLadiesLdnOnt) us if you're having any trouble getting set up! 
+
+Please [RSVP](https://www.meetup.com/rladies-ldnont/events/264989455/?fbclid=IwAR1hBC7-x97QFKOJwCahEQg7gR5g42dTPy2noJgtu8et2-Pk9ewjaguknpM) at our meetup page!
 
 ---
 
