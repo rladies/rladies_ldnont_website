@@ -49,9 +49,9 @@ All three of us are 4th year combined speech-language pathology MClSc/PhD candid
 
 <iframe src="https://giphy.com/embed/xT9DPFPfULYJHHrqN2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbc-funny-comedy-mr-d-xT9DPFPfULYJHHrqN2">via GIPHY</a></p>
 
-
+***
 <div class="col3">   
-![](https://github.com/rladies/rladies_ldnont_website/blob/master/static/img/Olivia.jpeg)
+![](/img/Olivia.jpeg)
 
  I’m [**Olivia**](https://twitter.com/OliviaDaub), my work focuses on partnering with speech-language pathologists in developing new measures of spoken language development for young children with hearing loss. I use R for a variety of psychometric analyses, including Rasch and Latent Trait’s Modelling, and an in the process of learning [RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html) for future manuscripts. I also have a pet bunny named Milo `r emo::ji("rabbit")` who has made significant contributions to my research, including eating any spare journal articles left lying around. 
  </div>  
@@ -60,14 +60,14 @@ All three of us are 4th year combined speech-language pathology MClSc/PhD candid
  
 
 <div class="col3">  
-![](https://github.com/rladies/rladies_ldnont_website/blob/master/static/img/Caitlin.jpeg)
+![](/img/Caitlin.jpeg)
 
 Hi everyone! [**Caitlin**](https://twitter.com/CaitlinCoughler) here! I’ve been using R for about 2.5 years now, which started at #Rladies #LdnOnt! I took the deep dive last summer when I started using R in my candidacy exam project data analysis and haven’t looked back. I’m a big fan of the data manipulation packages tidyr and [dplyr](https://rpubs.com/bradleyboehmke/data_wrangling) and love the graphing possibilities in [ggplot](https://ggplot2.tidyverse.org/). Fun fact: I’ve lived in 3 different continents. `r emo::ji("globe")` Looking forward to another year expanding R knowledge!  
 </div>  
 ***  
 
 <div class="col3">
-![](https://github.com/rladies/rladies_ldnont_website/blob/master/static/img/Daryn.jpeg)
+![](/img/Daryn.jpeg)
 
 I’m [**Daryn**](https://twitter.com/DarynSparrow)! I too got starting using R at #Rladies #LdnOnt in 2017! From fresh-faced newbie to giving talks, R-Ladies has been a great place to grow. I use R for statistical analysis and data manipulation in my research (acoustic analysis of speech). I love the [tidyverse](https://www.tidyverse.org/) in general, and really appreciate [flextable](https://davidgohel.github.io/flextable/articles/overview.html) (for flexible and conditional table formatting). Outside of R, I love D&D `r emo::ji("dice")`, video games `r emo::ji("video game")` and textile arts!
 </div>  
