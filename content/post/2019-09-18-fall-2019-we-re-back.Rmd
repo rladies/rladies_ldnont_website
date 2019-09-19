@@ -32,9 +32,9 @@ knitr::opts_chunk$set(echo = FALSE, fig.align="center")
   }
 </style>
 
-
+<center>
 <iframe src="https://giphy.com/embed/kMM3vtBEgSsLu" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reddit-everyone-minute-kMM3vtBEgSsLu">via GIPHY</a></p>
-
+</center>
 
 # **We're back!**  
 
@@ -46,8 +46,9 @@ Welcome back to another year of #RLadies #LdnOnt!  This year we are starting out
 
 All three of us are 4th year combined speech-language pathology MClSc/PhD candidates (yes, we met through that!).  
 
-
+<center>
 <iframe src="https://giphy.com/embed/xT9DPFPfULYJHHrqN2" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbc-funny-comedy-mr-d-xT9DPFPfULYJHHrqN2">via GIPHY</a></p>
+</center>
 
 ***
 <div class="col3">   
@@ -80,7 +81,9 @@ We posted these intros on our [twitter](https://twitter.com/RLadiesLdnOnt) - com
 
 All workshops will be held the **first Tuesday** of the month at 6:00 p.m.   
 
+<center>
 <iframe src="https://giphy.com/embed/xT5LML4FY3If24Bf0I" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-4-the-simpsons-4x16-xT5LML4FY3If24Bf0I">via GIPHY</a></p>
+</center>
 
 # Next Up:  
 
