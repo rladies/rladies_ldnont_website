@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intro to R, R Studio, and R-Ladies</title>
+      <link>/2019/09/19/2019-09-19-intro-to-r-r-studio-and-r-ladies/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/09/19/2019-09-19-intro-to-r-r-studio-and-r-ladies/</guid>
+      <description>Our first meetup is in less than 2 weeks! This meetup will be on Tuesday, October 1st at 6 pm at Elborn College, Western University (1201 Western Road) in Room 2510. Elborn is a bit of a maze - see map and directions below. Parking at Elborn is 💰 free 💰 after 4 pm.
+We’re very excited to have Dr. Cortney Hanna-Benson back to take us through some helpful introductory info!</description>
+    </item>
     
     <item>
       <title>Fall 2019 - We&#39;re Back!</title>

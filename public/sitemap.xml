@@ -3,37 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/intro/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/09/19/2019-09-19-intro-to-r-r-studio-and-r-ladies/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rladies/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstats/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/uwo/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/09/18/2019-09-18-fall-2019-we-re-back/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rladies/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rstats/</loc>
-    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,22 +203,12 @@
   </url>
   
   <url>
-    <loc>/tags/uwo/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/western/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/2018/09/25/2018-09-25-r-ladies-fall-2018-and-beyond/</loc>
-    <lastmod>2018-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rstudio/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url>
   
