@@ -7,6 +7,10 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**Intro to R and RStudio**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-10-01_Intro2R-RStudio) *(2019-10-01)*
+
+- Led by Cortney Hanna-Benson
+
 [**Data cleaning and exploration in R**](https://drive.google.com/drive/folders/1RVvRDbtcUaQIyQDeyDgJzc4nLX8ZWsK3) *(2019-05-30)*
 
 - Led by Jaky Kueper
