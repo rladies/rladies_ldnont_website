@@ -36,7 +36,7 @@ Join us on Tuesday, November 12 at 6 pm to learn more about data viz. They say a
 
 Well, we think it does. Olivia Daub will be giving us a crash course in the Grammar of Graphics, taking us from the basics of ggplot2 to some fancy vizmagic with 3D graphics. Newbies and veterans alike will come away with new tricks, so don't miss it! 
 
-Come with R and R Studio installed, as well as the following packages: **ggplot2, scatterplot3d, gvlma, rgl, car, rcmdr, and psych**.
+Come with R and R Studio installed, as well as the following packages: **ggplot2, scatterplot3d, gvlma, rgl, car, rcmdr, and psych**. Mac users may need to have xQuartz installed to render 3D graphics. 
 
 We'll be in Room 2510 again at Elborn College (1201 Western Road). Parking is `r emo::ji("moneybag")` free `r emo::ji("moneybag")` after 4! This is our last meetup at Western, as we'll be back in our regular home at London Public Library starting next month (December 3rd)!!! We'll have signs up to guide you, just like last time.
 
