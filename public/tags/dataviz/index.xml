@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Visualization - Basics to 3D!</title>
+      <link>/2019/10/17/2019-10-17-data-visualization-basics-to-3d/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/10/17/2019-10-17-data-visualization-basics-to-3d/</guid>
+      <description>Join us on Tuesday, November 12 at 6 pm to learn more about data viz. They say a picture’s worth a thousand words… Does that apply to figures?
+Well, we think it does. Olivia Daub will be giving us a crash course in the Grammar of Graphics, taking us from the basics of ggplot2 to some fancy vizmagic with 3D graphics. Newbies and veterans alike will come away with new tricks, so don’t miss it!</description>
+    </item>
     
     <item>
       <title>Upcoming workshop: Data cleaning and exploration in R</title>
