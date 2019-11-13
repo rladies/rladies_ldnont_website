@@ -7,6 +7,10 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**Data Visualization: Basics to 3D**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-11-12_DataViz) *(2017-03-04)*
+
+- Led by Olivia Daub
+
 [**Intro to R and RStudio**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-10-01_Intro2R-RStudio) *(2019-10-01)*
 
 - Led by Cortney Hanna-Benson
@@ -104,11 +108,4 @@ Links to each workshop below.
 [**Introduction to RMarkdown**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2017-03-04_Intro2RMarkdown) *(2017-03-04)*
 
 - Led by Cortney Hannah
-
-
-
-
-
-
-
 
