@@ -7,7 +7,7 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
-[**Data Visualization: Basics to 3D**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-11-12_DataViz) *(2017-03-04)*
+[**Data Visualization: Basics to 3D**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-11-12_DataViz) *(2019-11-12)*
 
 - Led by Olivia Daub
 
