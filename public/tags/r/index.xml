@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Cleaning and Exploration</title>
+      <link>/2019/11/25/2019-11-25-data-cleaning-and-exploration/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/25/2019-11-25-data-cleaning-and-exploration/</guid>
+      <description>On Tuesday, December 3rd at 6 pm, the wonderful Jaky Kueper will be enlightening us on how to go on a data adventure.
+Jaky has taken us through a cleaning and exploration workshop before, and she’s awesome! Come and join us to learn some common practices and procedures for data cleaning and exploration — how to get data into a ‘usable’ form and start looking at what they can tell you.</description>
+    </item>
     
     <item>
       <title>Fall 2019 - We&#39;re Back!</title>
