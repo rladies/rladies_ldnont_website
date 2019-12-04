@@ -7,6 +7,10 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**Data cleaning and exploration in R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-12-03_exploration) *(2019-12-03)*
+
+- Led by Jaky Kueper
+
 [**Data Visualization: Basics to 3D**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-11-12_DataViz) *(2019-11-12)*
 
 - Led by Olivia Daub
@@ -15,7 +19,7 @@ Links to each workshop below.
 
 - Led by Cortney Hanna-Benson
 
-[**Data cleaning and exploration in R**](https://drive.google.com/drive/folders/1RVvRDbtcUaQIyQDeyDgJzc4nLX8ZWsK3) *(2019-05-30)*
+[**Data cleaning and exploration in R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-05-20_exploration-cleaning) *(2019-05-30)*
 
 - Led by Jaky Kueper
 
