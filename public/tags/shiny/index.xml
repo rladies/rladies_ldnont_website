@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bookdown on R-Ladies #LdnOnt</title>
-    <link>/tags/bookdown/</link>
-    <description>Recent content in bookdown on R-Ladies #LdnOnt</description>
+    <title>shiny on R-Ladies #LdnOnt</title>
+    <link>/tags/shiny/</link>
+    <description>Recent content in shiny on R-Ladies #LdnOnt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/bookdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>2019 and the 2010s are coming to a close! We hope you all enjoy the holiday season in whatever way you do, and we can’t way to see you in the new year.
 January 14th, 2020:
 Our fearless leader Thea Knowles is coming back to visit us and to share her rmarkdown and bookdown wisdom with us. This will also be the month that marks 3 awesome years of R-Ladies London, and we’re so thrilled to have her with us to celebrate our birthday 🎂!</description>
-    </item>
-    
-    <item>
-      <title>Upcoming workshop: R Markdown and bookdown for dissertating</title>
-      <link>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/04/25/2019-04-25-upcoming-workshop-r-markdown-and-bookdown-for-dissertating/</guid>
-      <description>Materials for our tutorial on dissertating in R Markdown with bookdown!
-TutorialMaterials</description>
     </item>
     
   </channel>

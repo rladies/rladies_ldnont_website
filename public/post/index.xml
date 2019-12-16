@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Coming up in 2020!</title>
+      <link>/2019/12/16/2019-12-16-coming-up-in-2020/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/16/2019-12-16-coming-up-in-2020/</guid>
+      <description>2019 and the 2010s are coming to a close! We hope you all enjoy the holiday season in whatever way you do, and we can’t way to see you in the new year.
+January 14th, 2020:
+Our fearless leader Thea Knowles is coming back to visit us and to share her rmarkdown and bookdown wisdom with us. This will also be the month that marks 3 awesome years of R-Ladies London, and we’re so thrilled to have her with us to celebrate our birthday 🎂!</description>
+    </item>
     
     <item>
       <title>Data Cleaning and Exploration</title>
