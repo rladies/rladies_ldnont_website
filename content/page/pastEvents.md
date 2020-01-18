@@ -7,6 +7,11 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**RMarkdown and Bookdown for Academic Writing in R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2020-01-14_rmarkdown) *(2020-01-14)*
+
+- Led by Thea Knowles
+- [Slides](http://rpubs.com/thealk/academic-writing)
+
 [**Data cleaning and exploration in R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2019-12-03_exploration) *(2019-12-03)*
 
 - Led by Jaky Kueper
