@@ -7,6 +7,10 @@ All materials are available in our [GitHub repository](https://github.com/rladie
 
 Links to each workshop below.
 
+[**Intro to Shiny for interactive graphics and data visualization**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2020-02-11_shiny) *(2020-02-11)*
+
+- Led by Emma Smith
+
 [**RMarkdown and Bookdown for Academic Writing in R**](https://github.com/rladies/meetup-presentations_london_ontario/tree/master/2020-01-14_rmarkdown) *(2020-01-14)*
 
 - Led by Thea Knowles
