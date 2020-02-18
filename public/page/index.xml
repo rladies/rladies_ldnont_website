@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on R-Ladies #LdnOnt</title>
@@ -34,7 +34,7 @@ Intro to Shiny for interactive graphics and data visualization (2020-02-11)
       
       <guid>/page/about/</guid>
       <description>Welcome to the new landing site of R-Ladies London, Ontario! The R-Ladies London, Ontario chapter (aka R-Ladies #LdnOnt) has been in operation since January 2017. Check out this post to learn more about how we got started and where we are now. This site will serve as a central landing point for anyone wishing to know more about us or access our materials.
-What is this R-Ladies you speak of?</description>
+What is this R-Ladies you speak of? R-Ladies is a world-wide organization to promote gender diversity in the R community.</description>
     </item>
     
   </channel>

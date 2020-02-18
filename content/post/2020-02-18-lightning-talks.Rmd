@@ -1,0 +1,29 @@
+---
+title: Lightning Talks
+author: ''
+date: '2020-02-18'
+slug: lightning-talks
+categories:
+  - upcoming
+  - workshops
+  - R-Ladies
+tags:
+  - meetup
+  - rladies
+  - rstats
+description: ''
+---
+
+This year is flying by! We have 2 more meetups before our regular summer hiatus. For our upcoming March meetup (March 3, 2020, 6 pm, LPL Central) we're going to do Lightning Talks. 
+
+![](/img/thor.gif)
+
+These are quick 5-minute presentations on whatever you like. Really - anything. All levels of R proficiency are welcome! All topics are welcome! You can present on something you know well, something you're in the midst of learning, or something you'd like to do and are just getting started with. These talks are a great way to get to know each other and get to know the work we all do, as well as get advice, support, and validation from your fellow R users. Please present! It's a lot of fun in a safe space. 
+
+You can choose to have slides (e.g. PowerPoint) or live code in R or talk off the dome if you really want to! We use HDMI to connect to the library computer, and you can choose to send us slides in advance, bring materials on a USB, or connect your own device. 
+
+Come! Talk! It's fun! 
+
+If you're interested in presenting, please fill out [this survey](https://forms.gle/TQWiRGVbj2YxpUd89) so we have a sense of who is presenting and what we'll hear. If you're thinking about it but aren't sure, reach out to us to chat about it! We're easiest to contact on [Twitter](https://twitter.com/RLadiesLdnOnt) or via [email](ldnont@rladies.org). 
+
+For presenters and non-presenters alike, please RSVP on our [Meetup](https://www.meetup.com/rladies-ldnont/). See you there!

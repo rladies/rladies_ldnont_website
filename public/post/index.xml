@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on R-Ladies #LdnOnt</title>
@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/2020/02/18/2020-02-18-lightning-talks/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/18/2020-02-18-lightning-talks/</guid>
+      <description>This year is flying by! We have 2 more meetups before our regular summer hiatus. For our upcoming March meetup (March 3, 2020, 6 pm, LPL Central) we’re going to do Lightning Talks.
+These are quick 5-minute presentations on whatever you like. Really - anything. All levels of R proficiency are welcome! All topics are welcome! You can present on something you know well, something you’re in the midst of learning, or something you’d like to do and are just getting started with.</description>
+    </item>
     
     <item>
       <title>Coming up in 2020!</title>
